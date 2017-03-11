@@ -1,0 +1,54 @@
+body{
+ background-color:#332f2f;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container{
+  background-color:white;
+  
+}
+
+.header{
+  background-color:#332f2f;
+  height: 70px;
+  
+  
+}
+img{
+  height: 400px;
+  
+}
+.title{
+  color:#41bbe0;
+  font-weight: 700;
+}
+
+.main-information{
+  position:relative;
+  right: 400px;
+}
+
+.category{
+    text-decoration: underline;
+}
+
+.main-text{
+  font-size: 20px;
+  margin-top: 15px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+q{
+quotes: "\0022" "\0022";
+color:#41bbe0;
+font-size:24px;
+  margin-bottom: 15px;
+}
+
+.quote-title{
+color:#e23636; 
+}
+
+.container{
+  border-radius: 10px;
+}    
